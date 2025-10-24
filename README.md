@@ -6,13 +6,6 @@ A real-time facial expression recognition application that matches your expressi
 
 Expression Matcher uses your webcam to detect facial expressions in real-time and displays corresponding character images side-by-side. The application uses DeepFace's emotion detection to recognize expressions like happy, sad, angry, neutral, and more.
 
-**Features:**
-- Real-time facial expression detection
-- Side-by-side display of webcam feed and matched character images
-- Customizable expression-to-image mapping via JSON configuration
-- Screenshot capture functionality
-- Efficient caching for smooth performance
-
 ## Installation
 
 ### Prerequisites
