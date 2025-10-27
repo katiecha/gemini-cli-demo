@@ -1,0 +1,5 @@
+{
+    "happy": ["happy.png"], 
+    "sad": ["sad.png"], 
+    "neutral": ["neutral.png"]
+}
