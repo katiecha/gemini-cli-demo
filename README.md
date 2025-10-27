@@ -31,5 +31,5 @@ brew install gemini-cli
 
 #### Further Instructions
 
-Visit Gemini CLI 
+Visit the official Gemini CLI repo with tons of good resources!
 - [https://github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
