@@ -11,11 +11,6 @@ venv/
 env/
 .venv
 
-# Project-specific
-output/
-expressions.json
-images/
-
 # DeepFace model cache
 .deepface/
 
